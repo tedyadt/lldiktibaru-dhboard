@@ -14,6 +14,7 @@
 
     {{-- bootstrap icon --}}
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
+    <script src="https://kit.fontawesome.com/69cc9ff7e6.js" crossorigin="anonymous"></script>
 
     <link rel="icon" href="{{ asset('dist-assets/images/logo.png') }}" type="image/x-icon">
     <link rel="shortcut icon" href="{{ asset('dist-assets/images/logo.png') }}" type="image/x-icon">
@@ -70,6 +71,7 @@
     <script src="{{ asset('dist-assets/js/plugins/echarts.min.js') }}"></script>
     <script src="{{ asset('dist-assets/js/scripts/echart.options.min.js') }}"></script>
     <script src="{{ asset('dist-assets/js/scripts/dashboard.v1.script.min.js') }}"></script>
+    <script src="{{ asset('dist-assets/js/scripts/widgets-statistics.min.js') }}"></script>
 
     <script src="{{ asset('dist-assets/js/plugins/datatables.min.js') }}"></script>
     <script src="{{ asset('dist-assets/js/scripts/datatables.script.min.js') }}"></script>
